@@ -452,3 +452,4 @@ $RECYCLE.BIN/
 ##safe place for our api keys
 ##bcos they will only be located for our development machine
 appsettings.json 
+ssl
